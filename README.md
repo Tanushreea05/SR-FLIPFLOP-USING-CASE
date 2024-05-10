@@ -75,15 +75,15 @@ module EXP_6(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using â€
 endmodule
 ```
 
+
 **RTL LOGIC FOR FLIPFLOPS**
 
-![de exp 6 op 1](https://github.com/Tanushreea05/SR-FLIPFLOP-USING-CASE/assets/138849166/60257b9c-bba0-46a9-9806-230bab860e09)
-
+![de exp 6 op 1](https://github.com/Tanushreea05/SR-FLIPFLOP-USING-CASE/assets/138849166/f6cf2f33-49ba-437b-82e8-dbf8be27ba06)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![de ex 6 op2](https://github.com/Tanushreea05/SR-FLIPFLOP-USING-CASE/assets/138849166/ba23b1df-730c-402f-ba4c-33a0b8b334f3)
 
-![de ex 6 op2](https://github.com/Tanushreea05/SR-FLIPFLOP-USING-CASE/assets/138849166/7dd756db-7d01-46bc-a732-b29a35a183d4)
 
 **RESULT**
 
