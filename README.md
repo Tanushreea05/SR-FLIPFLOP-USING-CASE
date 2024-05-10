@@ -51,6 +51,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 Developed by: Tanushree.A
 RegisterNumber:212223100057
 */
+
 ```
 ```
 module EXP_6(q, q_bar, s,r, clk, reset);//SR Flip Flop Behavioral Level using ‘case’ 
